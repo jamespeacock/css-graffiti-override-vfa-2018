@@ -18,6 +18,9 @@ div#wall .parent #tag-4 {
 body
 div#wall
 div.parent
+div#tag-5.slick {
+  display: none;
+}
 
 body
 div#wall 
